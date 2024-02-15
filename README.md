@@ -1,12 +1,13 @@
-# Custom React Starter Template with Vite
+# Custom React Starter Template with Vite and Vitest
 
-This repository serves as a custom starter template for React projects using Vite. It's designed to provide a minimal setup, removing the default boilerplate that comes with Vite's React template. Ideal for quickly bootstrapping new projects without the need to remove unwanted files or dependencies.
+This repository serves as a custom starter template for React projects using Vite with Vitest included. It's designed to provide a minimal setup, removing the default boilerplate that comes with Vite's React template. Ideal for quickly bootstrapping new projects without the need to remove unwanted files or dependencies.
 
 ## Features
 
 **Minimal Setup**: Only includes the essential files and configurations needed to start a React project.
 **Vite Powered**: Leverages Vite for an incredibly fast development environment and build tool.
 **Pre-configured React**: React and ReactDOM are pre-installed and configured.
+**Pre-configured Vitest**: Vitest and React Testing Library are pre-installed and configured.
 
 ## How to Use This Template
 
